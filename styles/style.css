@@ -760,7 +760,7 @@ nav ul a:active {
 
 @media (max-width: 480px) {
 	.website-thema button svg {
-		width: 2em;
+		width: 2.5em;
 		height: auto;
 	}
 }
